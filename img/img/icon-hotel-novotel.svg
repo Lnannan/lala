@@ -1,0 +1,134 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path id="a" d="M14 20h50v60H14z"/><mask id="am" x="0" y="0" width="50" height="60" fill="#fff"><use xlink:href="#a"/></mask><path id="b" d="M0 0h50v80H0z"/><mask id="an" x="0" y="0" width="50" height="80" fill="#fff"><use xlink:href="#b"/></mask><path id="c" d="M52 27h8v8h-8z"/><mask id="ao" x="0" y="0" width="8" height="8" fill="#fff"><use xlink:href="#c"/></mask><path id="d" d="M4 7h6v4H4z"/><mask id="ap" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#d"/></mask><path id="e" d="M13 7h6v4h-6z"/><mask id="aq" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#e"/></mask><path id="f" d="M22 7h6v4h-6z"/><mask id="ar" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#f"/></mask><path id="g" d="M31 7h6v4h-6z"/><mask id="as" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#g"/></mask><path id="h" d="M40 7h6v4h-6z"/><mask id="at" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#h"/></mask><path id="i" d="M4 13h6v4H4z"/><mask id="au" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#i"/></mask><path id="j" d="M13 13h6v4h-6z"/><mask id="av" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#j"/></mask><path id="k" d="M22 13h6v4h-6z"/><mask id="aw" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#k"/></mask><path id="l" d="M31 13h6v4h-6z"/><mask id="ax" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#l"/></mask><path id="m" d="M40 13h6v4h-6z"/><mask id="ay" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#m"/></mask><path id="n" d="M4 19h6v4H4z"/><mask id="az" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#n"/></mask><path id="o" d="M13 19h6v4h-6z"/><mask id="aA" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#o"/></mask><path id="p" d="M22 19h6v4h-6z"/><mask id="aB" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#p"/></mask><path id="q" d="M31 19h6v4h-6z"/><mask id="aC" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#q"/></mask><path id="r" d="M40 19h6v4h-6z"/><mask id="aD" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#r"/></mask><path id="s" d="M4 25h6v4H4z"/><mask id="aE" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#s"/></mask><path id="t" d="M13 25h6v4h-6z"/><mask id="aF" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#t"/></mask><path id="u" d="M22 25h6v4h-6z"/><mask id="aG" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#u"/></mask><path id="v" d="M31 25h6v4h-6z"/><mask id="aH" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#v"/></mask><path id="w" d="M40 25h6v4h-6z"/><mask id="aI" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#w"/></mask><path id="x" d="M4 31h6v4H4z"/><mask id="aJ" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#x"/></mask><path id="y" d="M13 31h6v4h-6z"/><mask id="aK" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#y"/></mask><path id="z" d="M22 31h6v4h-6z"/><mask id="aL" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#z"/></mask><path id="A" d="M31 31h6v4h-6z"/><mask id="aM" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#A"/></mask><path id="B" d="M40 31h6v4h-6z"/><mask id="aN" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#B"/></mask><path id="C" d="M4 37h6v4H4z"/><mask id="aO" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#C"/></mask><path id="D" d="M13 37h6v4h-6z"/><mask id="aP" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#D"/></mask><path id="E" d="M22 37h6v4h-6z"/><mask id="aQ" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#E"/></mask><path id="F" d="M31 37h6v4h-6z"/><mask id="aR" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#F"/></mask><path id="G" d="M40 37h6v4h-6z"/><mask id="aS" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#G"/></mask><path id="H" d="M4 43h6v4H4z"/><mask id="aT" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#H"/></mask><path id="I" d="M13 43h6v4h-6z"/><mask id="aU" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#I"/></mask><path id="J" d="M22 43h6v4h-6z"/><mask id="aV" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#J"/></mask><path id="K" d="M31 43h6v4h-6z"/><mask id="aW" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#K"/></mask><path id="L" d="M40 43h6v4h-6z"/><mask id="aX" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#L"/></mask><path id="M" d="M4 49h6v4H4z"/><mask id="aY" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#M"/></mask><path id="N" d="M13 49h6v4h-6z"/><mask id="aZ" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#N"/></mask><path id="O" d="M22 49h6v4h-6z"/><mask id="ba" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#O"/></mask><path id="P" d="M31 49h6v4h-6z"/><mask id="bb" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#P"/></mask><path id="Q" d="M40 49h6v4h-6z"/><mask id="bc" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#Q"/></mask><path id="R" d="M4 55h6v4H4z"/><mask id="bd" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#R"/></mask><path id="S" d="M13 55h6v4h-6z"/><mask id="be" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#S"/></mask><path id="T" d="M22 55h6v4h-6z"/><mask id="bf" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#T"/></mask><path id="U" d="M31 55h6v4h-6z"/><mask id="bg" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#U"/></mask><path id="V" d="M40 55h6v4h-6z"/><mask id="bh" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#V"/></mask><path id="W" d="M4 61h6v4H4z"/><mask id="bi" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#W"/></mask><path id="X" d="M13 61h6v4h-6z"/><mask id="bj" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#X"/></mask><path id="Y" d="M22 61h6v4h-6z"/><mask id="bk" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#Y"/></mask><path id="Z" d="M31 61h6v4h-6z"/><mask id="bl" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#Z"/></mask><path id="aa" d="M40 61h6v4h-6z"/><mask id="bm" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#aa"/></mask><path id="ab" d="M4 67h6v4H4z"/><mask id="bn" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#ab"/></mask><path id="ac" d="M13 67h6v4h-6z"/><mask id="bo" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#ac"/></mask><path id="ad" d="M22 67h6v4h-6z"/><mask id="bp" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#ad"/></mask><path id="ae" d="M31 67h6v4h-6z"/><mask id="bq" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#ae"/></mask><path id="af" d="M40 67h6v4h-6z"/><mask id="br" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#af"/></mask><path id="ag" d="M4 73h6v4H4z"/><mask id="bs" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#ag"/></mask><path id="ah" d="M13 73h6v4h-6z"/><mask id="bt" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#ah"/></mask><path id="ai" d="M22 73h6v4h-6z"/><mask id="bu" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#ai"/></mask><path id="aj" d="M31 73h6v4h-6z"/><mask id="bv" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#aj"/></mask><path id="ak" d="M40 73h6v4h-6z"/><mask id="bw" x="0" y="0" width="6" height="4" fill="#fff"><use xlink:href="#ak"/></mask><path id="al" d="M54 37h4v20h-4z"/><mask id="bx" x="0" y="0" width="4" height="20" fill="#fff"><use xlink:href="#al"/></mask></defs><g fill="none" fill-rule="evenodd"><use stroke="#706565" mask="url(#am)" stroke-width="4" fill="#DFD9D9" xlink:href="#a"/><use stroke="#706565" mask="url(#an)" stroke-width="4" fill="#DFD9D9" xlink:href="#b"/><path fill="#7B7070" d="M0 4h50v1H0zM50 24h13v1H50z"/><use stroke="#706565" mask="url(#ao)" stroke-width="2" fill="#B8B3B3" xlink:href="#c"/><use stroke="#706565" mask="url(#ap)" stroke-width="2" fill="#B8B3B3" xlink:href="#d"/><use stroke="#706565" mask="url(#aq)" stroke-width="2" fill="#B8B3B3" xlink:href="#e"/><use stroke="#706565" mask="url(#ar)" stroke-width="2" fill="#B8B3B3" xlink:href="#f"/><use stroke="#706565" mask="url(#as)" stroke-width="2" fill="#B8B3B3" xlink:href="#g"/><use stroke="#706565" mask="url(#at)" stroke-width="2" fill="#B8B3B3" xlink:href="#h"/><use stroke="#706565" mask="url(#au)" stroke-width="2" fill="#B8B3B3" xlink:href="#i"/><use stroke="#706565" mask="url(#av)" stroke-width="2" fill="#B8B3B3" xlink:href="#j"/><use stroke="#706565" mask="url(#aw)" stroke-width="2" fill="#B8B3B3" xlink:href="#k"/><use stroke="#706565" mask="url(#ax)" stroke-width="2" fill="#B8B3B3" xlink:href="#l"/><use stroke="#706565" mask="url(#ay)" stroke-width="2" fill="#B8B3B3" xlink:href="#m"/><use stroke="#706565" mask="url(#az)" stroke-width="2" fill="#B8B3B3" xlink:href="#n"/><use stroke="#706565" mask="url(#aA)" stroke-width="2" fill="#B8B3B3" xlink:href="#o"/><use stroke="#706565" mask="url(#aB)" stroke-width="2" fill="#B8B3B3" xlink:href="#p"/><use stroke="#706565" mask="url(#aC)" stroke-width="2" fill="#B8B3B3" xlink:href="#q"/><use stroke="#706565" mask="url(#aD)" stroke-width="2" fill="#B8B3B3" xlink:href="#r"/><use stroke="#706565" mask="url(#aE)" stroke-width="2" fill="#B8B3B3" xlink:href="#s"/><use stroke="#706565" mask="url(#aF)" stroke-width="2" fill="#B8B3B3" xlink:href="#t"/><use stroke="#706565" mask="url(#aG)" stroke-width="2" fill="#B8B3B3" xlink:href="#u"/><use stroke="#706565" mask="url(#aH)" stroke-width="2" fill="#B8B3B3" xlink:href="#v"/><use stroke="#706565" mask="url(#aI)" stroke-width="2" fill="#B8B3B3" xlink:href="#w"/><use stroke="#706565" mask="url(#aJ)" stroke-width="2" fill="#B8B3B3" xlink:href="#x"/><use stroke="#706565" mask="url(#aK)" stroke-width="2" fill="#B8B3B3" xlink:href="#y"/><use stroke="#706565" mask="url(#aL)" stroke-width="2" fill="#B8B3B3" xlink:href="#z"/><use stroke="#706565" mask="url(#aM)" stroke-width="2" fill="#B8B3B3" xlink:href="#A"/><use stroke="#706565" mask="url(#aN)" stroke-width="2" fill="#B8B3B3" xlink:href="#B"/><use stroke="#706565" mask="url(#aO)" stroke-width="2" fill="#B8B3B3" xlink:href="#C"/><use stroke="#706565" mask="url(#aP)" stroke-width="2" fill="#B8B3B3" xlink:href="#D"/><use stroke="#706565" mask="url(#aQ)" stroke-width="2" fill="#B8B3B3" xlink:href="#E"/><use stroke="#706565" mask="url(#aR)" stroke-width="2" fill="#B8B3B3" xlink:href="#F"/><use stroke="#706565" mask="url(#aS)" stroke-width="2" fill="#B8B3B3" xlink:href="#G"/><use stroke="#706565" mask="url(#aT)" stroke-width="2" fill="#B8B3B3" xlink:href="#H"/><use stroke="#706565" mask="url(#aU)" stroke-width="2" fill="#B8B3B3" xlink:href="#I"/><use stroke="#706565" mask="url(#aV)" stroke-width="2" fill="#B8B3B3" xlink:href="#J"/><use stroke="#706565" mask="url(#aW)" stroke-width="2" fill="#B8B3B3" xlink:href="#K"/><use stroke="#706565" mask="url(#aX)" stroke-width="2" fill="#B8B3B3" xlink:href="#L"/><use stroke="#706565" mask="url(#aY)" stroke-width="2" fill="#B8B3B3" xlink:href="#M"/><use stroke="#706565" mask="url(#aZ)" stroke-width="2" fill="#B8B3B3" xlink:href="#N"/><use stroke="#706565" mask="url(#ba)" stroke-width="2" fill="#B8B3B3" xlink:href="#O"/><use stroke="#706565" mask="url(#bb)" stroke-width="2" fill="#B8B3B3" xlink:href="#P"/><use stroke="#706565" mask="url(#bc)" stroke-width="2" fill="#B8B3B3" xlink:href="#Q"/><use stroke="#706565" mask="url(#bd)" stroke-width="2" fill="#B8B3B3" xlink:href="#R"/><use stroke="#706565" mask="url(#be)" stroke-width="2" fill="#B8B3B3" xlink:href="#S"/><use stroke="#706565" mask="url(#bf)" stroke-width="2" fill="#B8B3B3" xlink:href="#T"/><use stroke="#706565" mask="url(#bg)" stroke-width="2" fill="#B8B3B3" xlink:href="#U"/><use stroke="#706565" mask="url(#bh)" stroke-width="2" fill="#B8B3B3" xlink:href="#V"/><use stroke="#706565" mask="url(#bi)" stroke-width="2" fill="#B8B3B3" xlink:href="#W"/><use stroke="#706565" mask="url(#bj)" stroke-width="2" fill="#B8B3B3" xlink:href="#X"/><use stroke="#706565" mask="url(#bk)" stroke-width="2" fill="#B8B3B3" xlink:href="#Y"/><use stroke="#706565" mask="url(#bl)" stroke-width="2" fill="#B8B3B3" xlink:href="#Z"/><use stroke="#706565" mask="url(#bm)" stroke-width="2" fill="#B8B3B3" xlink:href="#aa"/><use stroke="#706565" mask="url(#bn)" stroke-width="2" fill="#B8B3B3" xlink:href="#ab"/><use stroke="#706565" mask="url(#bo)" stroke-width="2" fill="#B8B3B3" xlink:href="#ac"/><use stroke="#706565" mask="url(#bp)" stroke-width="2" fill="#B8B3B3" xlink:href="#ad"/><use stroke="#706565" mask="url(#bq)" stroke-width="2" fill="#B8B3B3" xlink:href="#ae"/><use stroke="#706565" mask="url(#br)" stroke-width="2" fill="#B8B3B3" xlink:href="#af"/><use stroke="#706565" mask="url(#bs)" stroke-width="2" fill="#B8B3B3" xlink:href="#ag"/><use stroke="#706565" mask="url(#bt)" stroke-width="2" fill="#B8B3B3" xlink:href="#ah"/><use stroke="#706565" mask="url(#bu)" stroke-width="2" fill="#B8B3B3" xlink:href="#ai"/><use stroke="#706565" mask="url(#bv)" stroke-width="2" fill="#B8B3B3" xlink:href="#aj"/><use stroke="#706565" mask="url(#bw)" stroke-width="2" fill="#B8B3B3" xlink:href="#ak"/><use stroke="#706565" mask="url(#bx)" stroke-width="2" fill="#B8B3B3" xlink:href="#al"/></g><style xmlns="http://www.w3.org/1999/xhtml" charset="utf-8" type="text/css" class="firebugResetStyles">/* See license.txt for terms of usage */
+/** reset styling **/
+.firebugResetStyles {
+    z-index: 2147483646 !important;
+    top: 0 !important;
+    left: 0 !important;
+    display: block !important;
+    border: 0 none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    outline: 0 !important;
+    min-width: 0 !important;
+    max-width: none !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    position: fixed !important;
+    transform: rotate(0deg) !important;
+    transform-origin: 50% 50% !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    background: transparent none !important;
+    pointer-events: none !important;
+    white-space: normal !important;
+}
+style.firebugResetStyles {
+    display: none !important;
+}
+
+.firebugBlockBackgroundColor {
+    background-color: transparent !important;
+}
+
+.firebugResetStyles:before, .firebugResetStyles:after {
+    content: "" !important;
+}
+/**actual styling to be modified by firebug theme**/
+.firebugCanvas {
+    display: none !important;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+.firebugLayoutBox {
+    width: auto !important;
+    position: static !important;
+}
+
+.firebugLayoutBoxOffset {
+    opacity: 0.8 !important;
+    position: fixed !important;
+}
+
+.firebugLayoutLine {
+    opacity: 0.4 !important;
+    background-color: #000000 !important;
+}
+
+.firebugLayoutLineLeft, .firebugLayoutLineRight {
+    width: 1px !important;
+    height: 100% !important;
+}
+
+.firebugLayoutLineTop, .firebugLayoutLineBottom {
+    width: 100% !important;
+    height: 1px !important;
+}
+
+.firebugLayoutLineTop {
+    margin-top: -1px !important;
+    border-top: 1px solid #999999 !important;
+}
+
+.firebugLayoutLineRight {
+    border-right: 1px solid #999999 !important;
+}
+
+.firebugLayoutLineBottom {
+    border-bottom: 1px solid #999999 !important;
+}
+
+.firebugLayoutLineLeft {
+    margin-left: -1px !important;
+    border-left: 1px solid #999999 !important;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+.firebugLayoutBoxParent {
+    border-top: 0 none !important;
+    border-right: 1px dashed #E00 !important;
+    border-bottom: 1px dashed #E00 !important;
+    border-left: 0 none !important;
+    position: fixed !important;
+    width: auto !important;
+}
+
+.firebugRuler{
+    position: absolute !important;
+}
+
+.firebugRulerH {
+    top: -15px !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 14px !important;
+    background: url("data:image/png,%89PNG%0D%0A%1A%0A%00%00%00%0DIHDR%00%00%13%88%00%00%00%0E%08%02%00%00%00L%25a%0A%00%00%00%04gAMA%00%00%D6%D8%D4OX2%00%00%00%19tEXtSoftware%00Adobe%20ImageReadyq%C9e%3C%00%00%04%F8IDATx%DA%EC%DD%D1n%E2%3A%00E%D1%80%F8%FF%EF%E2%AF2%95%D0D4%0E%C1%14%B0%8Fa-%E9%3E%CC%9C%87n%B9%81%A6W0%1C%A6i%9A%E7y%0As8%1CT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AATE9%FE%FCw%3E%9F%AF%2B%2F%BA%97%FDT%1D~K(%5C%9D%D5%EA%1B%5C%86%B5%A9%BDU%B5y%80%ED%AB*%03%FAV9%AB%E1%CEj%E7%82%EF%FB%18%BC%AEJ8%AB%FA'%D2%BEU9%D7U%ECc0%E1%A2r%5DynwVi%CFW%7F%BB%17%7Dy%EACU%CD%0E%F0%FA%3BX%FEbV%FEM%9B%2B%AD%BE%AA%E5%95v%AB%AA%E3E5%DCu%15rV9%07%B5%7F%B5w%FCm%BA%BE%AA%FBY%3D%14%F0%EE%C7%60%0EU%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5JU%88%D3%F5%1F%AE%DF%3B%1B%F2%3E%DAUCNa%F92%D02%AC%7Dm%F9%3A%D4%F2%8B6%AE*%BF%5C%C2Ym~9g5%D0Y%95%17%7C%C8c%B0%7C%18%26%9CU%CD%13i%F7%AA%90%B3Z%7D%95%B4%C7%60%E6E%B5%BC%05%B4%FBY%95U%9E%DB%FD%1C%FC%E0%9F%83%7F%BE%17%7DkjMU%E3%03%AC%7CWj%DF%83%9An%BCG%AE%F1%95%96yQ%0Dq%5Dy%00%3Et%B5'%FC6%5DS%95pV%95%01%81%FF'%07%00%00%00%00%00%00%00%00%00%F8x%C7%F0%BE%9COp%5D%C9%7C%AD%E7%E6%EBV%FB%1E%E0(%07%E5%AC%C6%3A%ABi%9C%8F%C6%0E9%AB%C0'%D2%8E%9F%F99%D0E%B5%99%14%F5%0D%CD%7F%24%C6%DEH%B8%E9rV%DFs%DB%D0%F7%00k%FE%1D%84%84%83J%B8%E3%BA%FB%EF%20%84%1C%D7%AD%B0%8E%D7U%C8Y%05%1E%D4t%EF%AD%95Q%BF8w%BF%E9%0A%BF%EB%03%00%00%00%00%00%00%00%00%00%B8vJ%8E%BB%F5%B1u%8Cx%80%E1o%5E%CA9%AB%CB%CB%8E%03%DF%1D%B7T%25%9C%D5(%EFJM8%AB%CC'%D2%B2*%A4s%E7c6%FB%3E%FA%A2%1E%80~%0E%3E%DA%10x%5D%95Uig%15u%15%ED%7C%14%B6%87%A1%3B%FCo8%A8%D8o%D3%ADO%01%EDx%83%1A~%1B%9FpP%A3%DC%C6'%9C%95gK%00%00%00%00%00%00%00%00%00%20%D9%C9%11%D0%C0%40%AF%3F%EE%EE%92%94%D6%16X%B5%BCMH%15%2F%BF%D4%A7%C87%F1%8E%F2%81%AE%AAvzr%DA2%ABV%17%7C%E63%83%E7I%DC%C6%0Bs%1B%EF6%1E%00%00%00%00%00%00%00%00%00%80cr%9CW%FF%7F%C6%01%0E%F1%CE%A5%84%B3%CA%BC%E0%CB%AA%84%CE%F9%BF)%EC%13%08WU%AE%AB%B1%AE%2BO%EC%8E%CBYe%FE%8CN%ABr%5Dy%60~%CFA%0D%F4%AE%D4%BE%C75%CA%EDVB%EA(%B7%F1%09g%E5%D9%12%00%00%00%00%00%00%00%00%00H%F6%EB%13S%E7y%5E%5E%FB%98%F0%22%D1%B2'%A7%F0%92%B1%BC%24z3%AC%7Dm%60%D5%92%B4%7CEUO%5E%F0%AA*%3BU%B9%AE%3E%A0j%94%07%A0%C7%A0%AB%FD%B5%3F%A0%F7%03T%3Dy%D7%F7%D6%D4%C0%AAU%D2%E6%DFt%3F%A8%CC%AA%F2%86%B9%D7%F5%1F%18%E6%01%F8%CC%D5%9E%F0%F3z%88%AA%90%EF%20%00%00%00%00%00%00%00%00%00%C0%A6%D3%EA%CFi%AFb%2C%7BB%0A%2B%C3%1A%D7%06V%D5%07%A8r%5D%3D%D9%A6%CAu%F5%25%CF%A2%99%97zNX%60%95%AB%5DUZ%D5%FBR%03%AB%1C%D4k%9F%3F%BB%5C%FF%81a%AE%AB'%7F%F3%EA%FE%F3z%94%AA%D8%DF%5B%01%00%00%00%00%00%00%00%00%00%8E%FB%F3%F2%B1%1B%8DWU%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*UiU%C7%BBe%E7%F3%B9%CB%AAJ%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5*%AAj%FD%C6%D4%5Eo%90%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5%86%AF%1B%9F%98%DA%EBm%BBV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%AD%D6%E4%F58%01%00%00%00%00%00%00%00%00%00%00%00%00%00%40%85%7F%02%0C%008%C2%D0H%16j%8FX%00%00%00%00IEND%AEB%60%82") repeat-x !important;
+    border-top: 1px solid #BBBBBB !important;
+    border-right: 1px dashed #BBBBBB !important;
+    border-bottom: 1px solid #000000 !important;
+}
+
+.firebugRulerV {
+    top: 0 !important;
+    left: -15px !important;
+    width: 14px !important;
+    height: 100% !important;
+    background: url("data:image/png,%89PNG%0D%0A%1A%0A%00%00%00%0DIHDR%00%00%00%0E%00%00%13%88%08%02%00%00%00%0E%F5%CB%10%00%00%00%04gAMA%00%00%D6%D8%D4OX2%00%00%00%19tEXtSoftware%00Adobe%20ImageReadyq%C9e%3C%00%00%06~IDATx%DA%EC%DD%D1v%A20%14%40Qt%F1%FF%FF%E4%97%D9%07%3BT%19%92%DC%40(%90%EEy%9A5%CB%B6%E8%F6%9Ac%A4%CC0%84%FF%DC%9E%CF%E7%E3%F1%88%DE4%F8%5D%C7%9F%2F%BA%DD%5E%7FI%7D%F18%DDn%BA%C5%FB%DF%97%BFk%F2%10%FF%FD%B4%F2M%A7%FB%FD%FD%B3%22%07p%8F%3F%AE%E3%F4S%8A%8F%40%EEq%9D%BE8D%F0%0EY%A1Uq%B7%EA%1F%81%88V%E8X%3F%B4%CEy%B7h%D1%A2E%EBohU%FC%D9%AF2fO%8BBeD%BE%F7X%0C%97%A4%D6b7%2Ck%A5%12%E3%9B%60v%B7r%C7%1AI%8C%BD%2B%23r%00c0%B2v%9B%AD%CA%26%0C%1Ek%05A%FD%93%D0%2B%A1u%8B%16-%95q%5Ce%DCSO%8E%E4M%23%8B%F7%C2%FE%40%BB%BD%8C%FC%8A%B5V%EBu%40%F9%3B%A72%FA%AE%8C%D4%01%CC%B5%DA%13%9CB%AB%E2I%18%24%B0n%A9%0CZ*Ce%9C%A22%8E%D8NJ%1E%EB%FF%8F%AE%CAP%19*%C3%BAEKe%AC%D1%AAX%8C*%DEH%8F%C5W%A1e%AD%D4%B7%5C%5B%19%C5%DB%0D%EF%9F%19%1D%7B%5E%86%BD%0C%95%A12%AC%5B*%83%96%CAP%19%F62T%86%CAP%19*%83%96%CA%B8Xe%BC%FE)T%19%A1%17xg%7F%DA%CBP%19*%C3%BA%A52T%86%CAP%19%F62T%86%CA%B0n%A9%0CZ%1DV%C6%3D%F3%FCH%DE%B4%B8~%7F%5CZc%F1%D6%1F%AF%84%F9%0F6%E6%EBVt9%0E~%BEr%AF%23%B0%97%A12T%86%CAP%19%B4T%86%CA%B8Re%D8%CBP%19*%C3%BA%A52huX%19%AE%CA%E5%BC%0C%7B%19*CeX%B7h%A9%0C%95%E1%BC%0C%7B%19*CeX%B7T%06%AD%CB%5E%95%2B%BF.%8F%C5%97%D5%E4%7B%EE%82%D6%FB%CF-%9C%FD%B9%CF%3By%7B%19%F62T%86%CA%B0n%D1R%19*%A3%D3%CA%B0%97%A12T%86uKe%D0%EA%B02*%3F1%99%5DB%2B%A4%B5%F8%3A%7C%BA%2B%8Co%7D%5C%EDe%A8%0C%95a%DDR%19%B4T%C66%82fA%B2%ED%DA%9FC%FC%17GZ%06%C9%E1%B3%E5%2C%1A%9FoiB%EB%96%CA%A0%D5qe4%7B%7D%FD%85%F7%5B%ED_%E0s%07%F0k%951%ECr%0D%B5C%D7-g%D1%A8%0C%EB%96%CA%A0%A52T%C6)*%C3%5E%86%CAP%19%D6-%95A%EB*%95q%F8%BB%E3%F9%AB%F6%E21%ACZ%B7%22%B7%9B%3F%02%85%CB%A2%5B%B7%BA%5E%B7%9C%97%E1%BC%0C%EB%16-%95%A12z%AC%0C%BFc%A22T%86uKe%D0%EA%B02V%DD%AD%8A%2B%8CWhe%5E%AF%CF%F5%3B%26%CE%CBh%5C%19%CE%CB%B0%F3%A4%095%A1%CAP%19*Ce%A8%0C%3BO*Ce%A8%0C%95%A12%3A%AD%8C%0A%82%7B%F0v%1F%2FD%A9%5B%9F%EE%EA%26%AF%03%CA%DF9%7B%19*Ce%A8%0C%95%A12T%86%CA%B8Ze%D8%CBP%19*Ce%A8%0C%95%D1ae%EC%F7%89I%E1%B4%D7M%D7P%8BjU%5C%BB%3E%F2%20%D8%CBP%19*Ce%A8%0C%95%A12T%C6%D5*%C3%5E%86%CAP%19*Ce%B4O%07%7B%F0W%7Bw%1C%7C%1A%8C%B3%3B%D1%EE%AA%5C%D6-%EBV%83%80%5E%D0%CA%10%5CU%2BD%E07YU%86%CAP%19*%E3%9A%95%91%D9%A0%C8%AD%5B%EDv%9E%82%FFKOee%E4%8FUe%A8%0C%95%A12T%C6%1F%A9%8C%C8%3D%5B%A5%15%FD%14%22r%E7B%9F%17l%F8%BF%ED%EAf%2B%7F%CF%ECe%D8%CBP%19*Ce%A8%0C%95%E1%93~%7B%19%F62T%86%CAP%19*Ce%A8%0C%E7%13%DA%CBP%19*Ce%A8%0CZf%8B%16-Z%B4h%D1R%19f%8B%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1%A2%A52%CC%16-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2EKe%98-Z%B4h%D1%A2EKe%D02%5B%B4h%D1%A2EKe%D02%5B%B4h%D1%A2E%8B%96%CA0%5B%B4h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%16-%95a%B6h%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-Z*%C3l%D1%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z%B4T%86%D9%A2E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4h%A9%0C%B3E%8B%16-Z%B4h%A9%0CZf%8B%16-Z%B4h%A9%0CZf%8B%16-Z%B4h%D1R%19f%8B%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1%A2%A52%CC%16-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2EKe%98-Z%B4h%D1%A2EKe%D02%5B%B4h%D1%A2EKe%D02%5B%B4h%D1%A2E%8B%96%CA0%5B%B4h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%16-%95a%B6h%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-Z*%C3l%D1%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z%B4T%86%D9%A2E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4h%A9%0C%B3E%8B%16-Z%B4h%A9%0CZf%8B%16-Z%B4h%A9%0CZf%8B%16-Z%B4h%D1R%19f%8B%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1%A2%A52%CC%16-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2EKe%98-Z%B4h%D1%A2EKe%D02%5B%B4h%D1%A2EKe%D02%5B%B4h%D1%A2E%8B%96%CA0%5B%B4h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%16-%95a%B6h%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-Z*%C3l%D1%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z%B4T%86%D9%A2E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4%AE%A4%F5%25%C0%00%DE%BF%5C'%0F%DA%B8q%00%00%00%00IEND%AEB%60%82") repeat-y !important;
+    border-left: 1px solid #BBBBBB !important;
+    border-right: 1px solid #000000 !important;
+    border-bottom: 1px dashed #BBBBBB !important;
+}
+
+.overflowRulerX &gt; .firebugRulerV {
+    left: 0 !important;
+}
+
+.overflowRulerY &gt; .firebugRulerH {
+    top: 0 !important;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+.fbProxyElement {
+    position: fixed !important;
+    pointer-events: auto !important;
+}
+</style></svg>
